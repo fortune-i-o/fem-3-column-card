@@ -21,6 +21,7 @@ body {
   font-size: 0.9375rem;
   font-family: var(--ff-primary);
   line-height: 1.5;
+  min-height: 100dvh;
 }
 
 /* || GLOBAL STYLES */
@@ -29,7 +30,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 100dvh;
 }
 
 h2 {
@@ -115,7 +116,6 @@ a {
 
 .attribution {
   font-size: clamp(0.7125rem, 0.7rem + 1.2vw, 1rem);
-  grid-column: span 3;
   margin-block-end: 1rem;
   text-align: center;
   width: 90%;
