@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution:** [link](https://)
-- **Live Site:** [link](https://)
+- **Solution:** [frontendmentor.io/solutions/responsive-3column-preview-card-component-YXBX3qnMOP](https://www.frontendmentor.io/solutions/responsive-3column-preview-card-component-YXBX3qnMOP)
+- **Live Site:** [fem-3-column-card.pages.dev](https://fem-3-column-card.pages.dev/)
 
 ## My process
 
